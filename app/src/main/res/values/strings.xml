@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SomeWhere</string>
+    <string name="infor_name">添加地点</string>
+    <string name="place_name">地名</string>
+    <string name="place_description">描述</string>
+    <string name="place_name_hint">我的标记</string>
+    <string name="place_description_hint">我的描述</string>
+    <string name="save">保存</string>
+    <string name="delete">删除</string>
+</resources>
